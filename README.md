@@ -1,3 +1,6 @@
+**NOTE**: this repository is archived to support workflow reproducibility. Active development
+continues at: https://github.com/icgc-argo-workflows/icgc-argo-sv-copy-number
+
 # ICGC-ARGO SV and CN Working Group Pipeline
 
 ## Work In Progress 🚧
